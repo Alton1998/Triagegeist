@@ -3,3 +3,7 @@
 *.stata
 *.zip
 .idea
+/runs
+/best_epoch_checkpoint
+/best_model
+/last_epoch_checkpoint
